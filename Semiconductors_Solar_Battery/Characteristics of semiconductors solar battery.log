@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.31)  6 APR 2023 00:52
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.31)  6 APR 2023 04:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1716,34 +1716,34 @@ LaTeX Info: Redefining \nameref on input line 267.
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 275.
+(Font)              scaled to size 17.28pt on input line 277.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 275.
+(Font)              scaled to size 12.0pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.69763pt on input line 275.
+(Font)              scaled to size 12.69763pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.46509pt on input line 275.
+(Font)              scaled to size 8.46509pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.34882pt on input line 275.
+(Font)              scaled to size 6.34882pt on input line 277.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-75.
+77.
 
 (c:/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.69873pt on input line 275.
+(Font)              scaled to size 12.69873pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.46582pt on input line 275.
+(Font)              scaled to size 8.46582pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.34937pt on input line 275.
+(Font)              scaled to size 6.34937pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 12.69635pt on input line 275.
+(Font)              scaled to size 12.69635pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.46423pt on input line 275.
+(Font)              scaled to size 8.46423pt on input line 277.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.34818pt on input line 275.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 275
+(Font)              scaled to size 6.34818pt on input line 277.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 277
 .
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1752,7 +1752,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 275
+LaTeX Font Info:    Trying to load font information for U+msb on input line 277
 .
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1762,21 +1762,52 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 278.
+(Font)              scaled to size 14.4pt on input line 280.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 278.
+(Font)              scaled to size 14.4pt on input line 280.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.40695pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.29068pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.58228pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.4076pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.29114pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.58029pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.4062pt on input line 284.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.29015pt on input line 284.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 292.
  [2
 
-] [3]
-(./Characteristics of semiconductors solar battery.aux) ) 
-Here is how much of TeX's memory you used:
- 29282 strings out of 476179
- 572048 string characters out of 5813072
- 1134186 words of memory out of 5000000
- 49477 multiletter control sequences out of 15000+600000
- 473057 words of font info for 87 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 86i,8n,136p,1060b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+]
+LaTeX Font Info:    Font shape `TU/LiberationMono(0)/m/n' will be
+(Font)              scaled to size 8.6322pt on input line 343.
+ [3] [4]
+[5]
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 405.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 405.
 
-Output written on Characteristics of semiconductors solar battery.pdf (2 pages)
+Overfull \hbox (25.42102pt too wide) in paragraph at lines 422--431
+ [][][][] 
+ []
+
+[6] [7] (./Characteristics of semiconductors solar battery.aux) ) 
+Here is how much of TeX's memory you used:
+ 29353 strings out of 476179
+ 574157 string characters out of 5813072
+ 1158186 words of memory out of 5000000
+ 49528 multiletter control sequences out of 15000+600000
+ 475926 words of font info for 108 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 86i,12n,136p,1060b,359s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on Characteristics of semiconductors solar battery.pdf (6 pages)
 .

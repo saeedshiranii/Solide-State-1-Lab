@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.31)  11 APR 2023 14:25
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.31)  12 APR 2023 20:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1788,31 +1788,70 @@ LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
 ]
 LaTeX Font Info:    Font shape `TU/LiberationMono(0)/m/n' will be
 (Font)              scaled to size 8.6322pt on input line 335.
+LaTeX Font Info:    Font shape `TU/LiberationMono(0)/m/n' will be
+(Font)              scaled to size 12.43036pt on input line 338.
+LaTeX Font Info:    Font shape `TU/LiberationMono(0)/b/n' will be
+(Font)              scaled to size 12.43036pt on input line 338.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 15.23714pt on input line 338.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 15.23846pt on input line 338.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 15.23561pt on input line 338.
+File: I_SO.png Graphic file (type bmp)
+<I_SO.png>
  [3] [4]
+LaTeX Font Info:    Font shape `TU/LiberationMono(0)/b/n' will be
+(Font)              scaled to size 8.6322pt on input line 457.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 479.
+File: Gaussian fit.png Graphic file (type bmp)
+<Gaussian fit.png>
+
 [5]
-LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 410.
-LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 410.
-
-Overfull \hbox (25.42102pt too wide) in paragraph at lines 427--436
- [][][][] 
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 443--449
+File: Spline fit.png Graphic file (type bmp)
+<Spline fit.png>
+ [6]
+File: quadratic, cubic, Fourth degree, curve fit.png Graphic file (type bmp)
+<quadratic, cubic, Fourth degree, curve fit.png>
+ [7]
+File: fifth degree, sixth degree, seventh degree, curve fit.png Graphic file (t
+ype bmp)
+<fifth degree, sixth degree, seventh degree, curve fit.png>
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 584--596
 [][]
  []
 
-[7] [8] (./EXP2_Characteristics of semiconductors solar battery.aux) ) 
-Here is how much of TeX's memory you used:
- 29363 strings out of 476179
- 574370 string characters out of 5813072
- 1158207 words of memory out of 5000000
- 49535 multiletter control sequences out of 15000+600000
- 475934 words of font info for 109 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 86i,12n,136p,1065b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 604.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 604.
 
-Output written on EXP2_Characteristics of semiconductors solar battery.pdf (7 p
-ages).
+Overfull \hbox (25.42102pt too wide) in paragraph at lines 613--622
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+File: I-cos^2(theta) fig.png Graphic file (type bmp)
+<I-cos^2(theta) fig.png>
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 670--676
+[][]
+ []
+
+[11] [12] (./EXP2_Characteristics of semiconductors solar battery.aux) ) 
+Here is how much of TeX's memory you used:
+ 29456 strings out of 476179
+ 577049 string characters out of 5813072
+ 1160402 words of memory out of 5000000
+ 49610 multiletter control sequences out of 15000+600000
+ 476935 words of font info for 120 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 86i,12n,136p,1065b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on EXP2_Characteristics of semiconductors solar battery.pdf (11 
+pages).

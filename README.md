@@ -17,28 +17,18 @@ This report utilized LaTeX to generate the experiment results, while Python prog
 
 # 🛠 Skills
 
-- **Python**
-- **LaTex**
-- **Data Cleaning**
-- **Linear Regression**
-- **Writing Report**
-- **Interpretation of Laboratory Experimental Data**
 
+| Tool | Icon |
+|---|---|
+| **Python** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/93f61ef1-817b-4866-ad40-b0334c345cae" width="150px"/> |
+| **Pandas** | <img alt="Go SDK" src=https://i.ibb.co/WG5tdTW/Pandas-logo-svg.png width="150px"/>  | 
+| **LaTeX** |  <img alt="Go SDK" src=https://i.ibb.co/gTyrt98/La-Te-X-project-logo-bird-svg.png width="150px"/>  | 
+| **SciPy** |  <img alt="Go SDK" src=https://i.ibb.co/yNKWhL7/Scipy-logo.png width="150px"/>  | 
+| **Data Cleaning**| <img alt="Go SDK" src="https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png" width="150px"/> |
+|**Linear Regression**| <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/6f635d37-7830-4600-8a1d-54ba0e6aec2c" width="100px"/>|
+| **Interpretation of Laboratory Experimental Data** |
+| **Writing Report** ||
 
-
-
-
-
-![Python](https://i.ibb.co/x1QLmNY/Python-logo-notext-svg.png)
-
-![Pandas](https://i.ibb.co/WG5tdTW/Pandas-logo-svg.png)
-
-
-![Scipy](https://i.ibb.co/yNKWhL7/Scipy-logo.png)
-
-![Data Cleaning](https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png)
-
-![LATEX](https://i.ibb.co/gTyrt98/La-Te-X-project-logo-bird-svg.png)
 
 
 # Contact
